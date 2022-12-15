@@ -63,6 +63,8 @@ public class C03_IncrementDecrement {
         System.out.println(sayı3);
 
 
+        System.out.println("Github gonderildi..");
+
         System.out.println();
     }//main
 
