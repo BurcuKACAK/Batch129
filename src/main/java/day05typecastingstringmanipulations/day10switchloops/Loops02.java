@@ -1,4 +1,4 @@
-package day10switchloops;
+package day05typecastingstringmanipulations.day10switchloops;
 
 public class Loops02 {
 
