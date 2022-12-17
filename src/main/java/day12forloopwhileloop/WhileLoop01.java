@@ -33,6 +33,8 @@ public class WhileLoop01 {
         }
         System.out.println();
         //Example 3: Verilen bir tam sayinin rakamlari toplamini konsola yazdiran kodu yaziniz
+
+        //1. Yol: while-Loop
         int num = -578;
 
         num = Math.abs(num);
@@ -43,6 +45,21 @@ public class WhileLoop01 {
             num/=10;
         }
         System.out.println(sum);
+
+        //2. Yol : for-Loop
+
+        int a = 6841;
+
+        int toplam = 0;
+
+        for (int m = a; m>0 ; m/=10) {
+
+            toplam = toplam + m%10;
+            System.out.println(toplam);
+
+
+
+        }
 
 
 

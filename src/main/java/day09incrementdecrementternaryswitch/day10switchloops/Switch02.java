@@ -1,4 +1,4 @@
-package day05typecastingstringmanipulations.day10switchloops;
+package day09incrementdecrementternaryswitch.day10switchloops;
 
 import java.util.Scanner;
 
