@@ -28,7 +28,7 @@ public class Arrays05 {
         System.out.println(num1);// 0 ==> Var hem de indexi sifir
 
         int num2 = Arrays.binarySearch(colors, "Orange");
-        System.out.println(num2);// 33 ==> Var hem de indexi 3
+        System.out.println(num2);// 3 ==> Var hem de indexi 3
 
         int num3 = Arrays.binarySearch(colors, "Tarik");
         System.out.println(num3);// -6 ==> "-" bu eleman yok demek.
