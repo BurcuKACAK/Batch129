@@ -40,7 +40,7 @@ public class Arrays01 {
 
             System.out.println(stdtNames[i] + "!");
         }
-
+        //Arraylerdeki length metodunda parantez olmaz Stringlerde olur
 
 
     }
