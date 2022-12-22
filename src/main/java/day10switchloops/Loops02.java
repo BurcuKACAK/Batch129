@@ -1,4 +1,4 @@
-package day09incrementdecrementternaryswitch.day10switchloops;
+package day10switchloops;
 
 public class Loops02 {
 
