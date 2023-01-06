@@ -27,7 +27,7 @@ public class Arrays01 {
         stdtNames[0] = "Cuneyt";
         stdtNames[1] = "Kemal";
         stdtNames[2] = "Ajda";
-        stdtNames[3]= "Ezel";
+        stdtNames[3]=  "Ezel";
         stdtNames[4] = "Besir";
         System.out.println(Arrays.toString(stdtNames));
 

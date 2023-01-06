@@ -52,8 +52,5 @@ public class Arrays01 {
         }
         System.out.println(sum);//32
 
-
-
-
     }
 }

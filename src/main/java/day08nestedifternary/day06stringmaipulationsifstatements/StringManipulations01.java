@@ -1,4 +1,4 @@
-package day06stringmaipulationsifstatements;
+package day08nestedifternary.day06stringmaipulationsifstatements;
 
 public class StringManipulations01 {
     public static void main(String[] args) {
