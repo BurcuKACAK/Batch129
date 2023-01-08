@@ -11,7 +11,7 @@ public class StringBuffer01 {
     Note 1:Immutable String lazim oldugunda String Class kullaniriz.
     Note 2:Mutable String lazim oldugunda StringBuilder veya StringBuffer kullaniriz.
     Note 3:StringBuffer "Multithread" ve  "Synchronization" lazim oldugunda tercih edilir.
-           StringBuilder "Multithread" ve  "Synchronization" gerekmezse tercih edilir.
+           StringBuilder "Multithread" ve  "Synchronization" gerekmezse tercih edilir..
 
      */
     public static void main(String[] args) {
@@ -20,6 +20,8 @@ public class StringBuffer01 {
 
         System.out.println(sbf.capacity());//20
 
+
+        System.out.println();
 
 
 
