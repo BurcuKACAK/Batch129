@@ -24,7 +24,7 @@ public class Student {
         iii) "default" sadece ayni packageden ulasilabilir. Bu yuzden "default"larin diger adi "package private"dir
         iv) "private"  sadece class icinden ulasilabilir, class disina cikildiginda ulasilamaz
         v) "protected" ile "default"un farki nedir ?
-           Package disina ciktigimizda childlardan "protected"lara ulasabiliriz. "default"lara ulasamayiz.
+           Package disina ciktigimizda child'lardan "protected"lara ulasabiliriz. "default"lara ulasamayiz.
 
 
 

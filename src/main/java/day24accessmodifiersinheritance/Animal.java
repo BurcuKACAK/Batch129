@@ -15,7 +15,7 @@ public class Animal {
             "child class'lar tarafindan kullanilabilir" demek "inherit edilebilir" demektir.
     Note:   "protected" method'lar "inherit edilebilir" demektir.
              Cunku "protected" olan method ve variable'lar child'lar tarafindan kullanilir.
-    Note:   "default"method'lar object ile ayni package' olduklari surece "inherit edilebilir"
+    Note:   "default"method'lar object ile ayni package'de olduklari surece "inherit edilebilir"
             Ama default ile object'in uretildigi class farkli package'lerde ise inherit edilemezler.
     Note:   "private" method'lar "inherit edilmezler"
     Note:   Java birden fazla parent'i(multiple inheritance Java tarafindan desteklenmez) onaylamaz.
@@ -25,8 +25,8 @@ public class Animal {
     Note:   Java'da "parent"dan "child"a olan iliskilere "HAS-A Relationship" denir.
     Note:   Java'da "child"dan "parent"a olan iliskilere "IS-A Relationship" denir.
     Note:   Java'da her class'in bir tane default constructor'i vardir.
-            Bu default construcytor class'in icinde gorunmez. Cunku default constructor "Object Class"icindedir
-            Bizim class'imiz default constco'a ihtiyac duydugunda parent olan "Object Class"a gider ve oradaki constructor'i kullanir
+            Bu default constructor class'in icinde gorunmez. Cunku default constructor "Object Class"icindedir
+            Bizim class'imiz default constructor'a ihtiyac duydugunda parent olan "Object Class"a gider ve oradaki constructor'i kullanir
 
      */
     protected void eat(){
