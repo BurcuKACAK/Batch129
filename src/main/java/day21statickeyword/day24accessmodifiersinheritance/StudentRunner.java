@@ -1,4 +1,4 @@
-package day24accessmodifiersinheritance;
+package day21statickeyword.day24accessmodifiersinheritance;
 
 public class StudentRunner {
     public static void main(String[] args) {

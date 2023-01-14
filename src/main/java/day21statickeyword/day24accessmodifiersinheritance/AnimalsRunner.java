@@ -1,4 +1,4 @@
-package day24accessmodifiersinheritance;
+package day21statickeyword.day24accessmodifiersinheritance;
 
 import day23datetimestringbuilder.Snake;
 
