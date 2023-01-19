@@ -1,4 +1,4 @@
-package day21statickeyword.day24accessmodifiersinheritance;
+package day24accessmodifiersinheritance;
 
 public class Vehicle {
 
