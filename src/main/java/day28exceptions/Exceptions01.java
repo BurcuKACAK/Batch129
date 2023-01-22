@@ -1,4 +1,4 @@
-package day22staticblocksconstructors.day28exceptions;
+package day28exceptions;
 //Exceptions = Umulmadik Problem
 //Handle= Bir isi ele alip cozmek(Ustesinden gelmek)
 public class Exceptions01 {
