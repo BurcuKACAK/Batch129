@@ -1,4 +1,4 @@
-package day28exceptions;
+package day22staticblocksconstructors.day28exceptions;
 
 public class Exceptions03 {
     public static void main(String[] args) {

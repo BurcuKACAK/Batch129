@@ -1,4 +1,4 @@
-package day28exceptions;
+package day22staticblocksconstructors.day28exceptions;
 //Exceptions = Umulmadik Problem
 //Handle= Bir isi ele alip cozmek(Ustesinden gelmek)
 public class Exceptions01 {
@@ -59,7 +59,7 @@ public class Exceptions01 {
 //"Log"lara bakariz
 
    /*
-   Interview Sorusu==> Why we use try-catch instead of useing if-else ?
+        Interview Sorusu==> Why we use try-catch instead of useing if-else ?
         if else kullanirsak olusacak her problemi spesifik olarak tum ihtimalleri gozetmemiz gerekir.
         Ama try catch'te boyle bir seye gerek yok. Try Catch'te ne hatasi olursa olsun her exception'i yakalar.
 
