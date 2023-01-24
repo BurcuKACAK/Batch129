@@ -1,4 +1,4 @@
-package day29exceptions.day30exceptionsinterface;
+package day30exceptionsinterface;
 
 public class Exceptions01 {
     public static void main(String[] args) {

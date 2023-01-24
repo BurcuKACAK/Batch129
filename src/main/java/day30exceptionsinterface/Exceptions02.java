@@ -1,4 +1,4 @@
-package day29exceptions.day30exceptionsinterface;
+package day30exceptionsinterface;
 
 public class Exceptions02 {
      /*

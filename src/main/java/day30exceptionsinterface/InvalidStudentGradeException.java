@@ -1,4 +1,4 @@
-package day29exceptions.day30exceptionsinterface;/*
+package day30exceptionsinterface;/*
        1)Kendi application'iniza ozel kurallar olusturmak icin kendi "Exception Class" larinizi olusturabilirsiniz
        2)Olusturdugunuz "Exception Class" lar i)Compile Time Exception ii)Run Time Exception olabilir.
        3)"Compile Time Exception" olusturmak icin class'inizin parent'i "Exception Class" olmalidir

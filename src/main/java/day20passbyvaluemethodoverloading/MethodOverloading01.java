@@ -1,7 +1,5 @@
 package day20passbyvaluemethodoverloading;
 
-import static day02datatypemethodcreation.MethodCreations01.add;
-
 public class MethodOverloading01 {
 
         //Ayni isim birden fazla is MethodOverloading

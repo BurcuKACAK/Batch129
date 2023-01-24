@@ -1,4 +1,4 @@
-package day29exceptions.day30exceptionsinterface;
+package day30exceptionsinterface;
 
 public interface Ac {
     //interface'lerin icine "concrete" method konulamaz, cunku "concrete" method'larda

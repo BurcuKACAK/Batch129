@@ -1,4 +1,4 @@
-package day29exceptions.day30exceptionsinterface;
+package day30exceptionsinterface;
 
 /*
         1)Bir interface'i bir Class'in parent'i yapmak icin "implements" keyword'unu kullaniriz.
