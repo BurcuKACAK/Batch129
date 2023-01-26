@@ -43,13 +43,13 @@ public class Exceptions03 {
         1) "final"          2) "finally"        3)"finalize"
         1) "Final" bir keyword'dur. Variable,Class ve Methodlar icin kullanilir...
         "final" keyword i)Variable'larda kullanilabilir.
-public final int age = 12;
+    public final int age = 12;
         a)Atanan deger degistirilemez.
         b)Deger atamasi yapilmak zorundadir.
-final variable'lar isimlendirilirken büyük harfler kullanılır, isimlendirmede birden fazla kelime
+    final variable'lar isimlendirilirken büyük harfler kullanılır, isimlendirmede birden fazla kelime
         kullanılırsa kelimeler arasina "_" konulur.
         ii)Method'larda kullanilabilir.
-public final int add(){
+    public final int add(){
         return a+b;
         }
         a)Bir method olusturulurken "final" olarak olusturulmus ise
